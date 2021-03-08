@@ -1,2 +1,2 @@
 # ef-insights
-Get ingishte form EF fundamentals survey scripts
+Get insights from ef fundamentals survey scripts
