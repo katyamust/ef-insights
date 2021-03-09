@@ -1,0 +1,13 @@
+# data files
+*.csv
+*.json
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
+
+# pycharm
+.idea/
